@@ -1,5 +1,0 @@
-{
-  "mongoURI": "mongodb://bruno:Bruno123@cluster0-shard-00-00-xvzzi.mongodb.net:27017,cluster0-shard-00-01-xvzzi.mongodb.net:27017,cluster0-shard-00-02-xvzzi.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority",
-  "jwtSecret": "secret",
-  "githubToken": "20462aca8def98c87a7791de3739a66b66ee0c23"
-}
